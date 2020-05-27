@@ -1,4 +1,4 @@
-search_xpath = //*[@id="side"]/div[1]/div/label/div/div[2]/Ankit
+search_xpath = //*[@id="side"]/div[1]/div/label/div/div[2]
 user_class = _1AKfk
 msg_box_xpath = /html/body/div[1]/div/div/div[4]/div/footer/div[1]/div[2]/div/div[2]
 send_xpath = /html/body/div[1]/div/div/div[4]/div/footer/div[1]/div[3]/button
